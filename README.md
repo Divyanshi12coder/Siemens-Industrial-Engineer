@@ -17,6 +17,27 @@ It highlights engineering problem‑solving, process optimization, and data‑dr
 
 ---
 
+⚙️ Tech Stack
+Python (pandas, numpy, scipy, matplotlib)
+
+Jupyter Notebook for analysis
+
+Arena / Simul8 / AnyLogic (optional for simulation modeling)
+
+GitHub for repo management and branding
+
+📊 Key Deliverables
+Process flow analysis
+
+Time and motion study
+
+Resource optimization models
+
+Final engineering report with recommendations
+
+---
+
+
 
 ## 🗂️ Project Structure
 ```bash
