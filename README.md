@@ -37,7 +37,19 @@ Final engineering report with recommendations
 
 ---
 
+🏆 Outcomes
+Strengthened industrial engineering skillset
 
+Hands‑on experience with Siemens‑style workflows
+
+Portfolio project aligned with manufacturing and process optimization standards
+
+📌 Badges
+https://img.shields.io/badge/Python-3.9-blue  
+https://img.shields.io/badge/Jupyter-Notebook-orange  
+https://img.shields.io/badge/Status-Completed-success
+
+---
 
 ## 🗂️ Project Structure
 ```bash
