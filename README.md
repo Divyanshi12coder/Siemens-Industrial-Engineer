@@ -1,7 +1,5 @@
 # Siemens Industrial Engineer Simulation ⚙️
 
-
-
 ## 📌 Overview
 This repository documents my Siemens Industrial Engineer simulation project.  
 It highlights engineering problem‑solving, process optimization, and data‑driven decision‑making in a manufacturing/industrial context.
