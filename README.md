@@ -1,7 +1,6 @@
 # Siemens Industrial Engineer Simulation ⚙️
 
-![Banner](https://your-banner-link-here)  
-*(Replace with a Siemens‑style industrial visual or branded banner)*
+
 
 ## 📌 Overview
 This repository documents my Siemens Industrial Engineer simulation project.  
